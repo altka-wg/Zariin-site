@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/altka-wg/Zariin-site#readme",
   "dependencies": {
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "normalize.css": "^8.0.1"
   }
 }
